@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AdditionsKit_Tests' do
+  pod 'AdditionsKit', :path => '../'
+  
+  
+end
