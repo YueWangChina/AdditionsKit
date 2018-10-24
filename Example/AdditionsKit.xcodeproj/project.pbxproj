@@ -17,9 +17,9 @@
 
 /* Begin PBXFileReference section */
 		17D3D76B99295ADF684BF152 /* Pods-AdditionsKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AdditionsKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AdditionsKit_Tests/Pods-AdditionsKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		2E8B4C234178D89532B13874 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		3E106BE6B628F1650EBB99EA /* AdditionsKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = AdditionsKit.podspec; path = ../AdditionsKit.podspec; sourceTree = "<group>"; };
-		3E18DDCAB6DB1C07C0F2A08F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2E8B4C234178D89532B13874 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		3E106BE6B628F1650EBB99EA /* AdditionsKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = AdditionsKit.podspec; path = ../AdditionsKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3E18DDCAB6DB1C07C0F2A08F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };

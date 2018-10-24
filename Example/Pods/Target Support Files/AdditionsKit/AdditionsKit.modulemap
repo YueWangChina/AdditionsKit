@@ -1,0 +1,6 @@
+framework module AdditionsKit {
+  umbrella header "AdditionsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
